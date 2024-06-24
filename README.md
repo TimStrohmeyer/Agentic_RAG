@@ -1,3 +1,3 @@
 # Agentic_RAG
 Agentic RAG Pipeline
-![Uploading LLM Chatbot - Diagram.jpg…]()
+![LLM Chatbot - Diagram](https://github.com/TimStrohmeyer/Agentic_RAG/assets/133879815/2d549a8c-f3b7-48dc-b921-7d20bc4c13bc)
